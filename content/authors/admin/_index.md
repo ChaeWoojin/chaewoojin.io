@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'codnwls02@gmail.com'
+    url: 'mailto:codnwls02@gmail.com'
     label: E-mail Me
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
@@ -183,4 +183,5 @@ education:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My name is Woojin, but I go by Arthur in English. I'm currently a senior at [KAIST](https://www.kaist.ac.kr/en/), double majoring in Data and Operational Analytics (designated major in a department of Trandisciplinary Studies) and Mathematical Science, minoring computer science (CS).
+My research interest lies in the intersection of 
