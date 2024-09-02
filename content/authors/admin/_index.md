@@ -183,5 +183,8 @@ education:
 
 ## About Me
 
-My name is Woojin, but I go by Arthur in English. I'm currently a senior at [KAIST](https://www.kaist.ac.kr/en/), double majoring in Data and Operational Analytics (designated major in a department of Trandisciplinary Studies) and Mathematical Science, minoring computer science (CS).
-My research interest lies in the intersection of 
+Hello, my name is Woojin, but I go by Arthur in English. I’m a senior at [KAIST](https://www.kaist.ac.kr/en/), double majoring in Data and Operational Analytics and Mathematical Science, with a minor in Computer Science.
+
+My research interests lie at the intersection of operations research and machine learning, with a focus on developing data-driven decision-making algorithms to support better decision-making.
+
+During my doctoral studies, I aim to build a strong foundation in machine learning, graph theory, causal inference, and statistics, which I believe are essential for addressing social problems.
